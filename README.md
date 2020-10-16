@@ -1,4 +1,4 @@
-# OIDD 325 Case 1 Documentation
+# Exploring Wealth and Chance
 
 
 
