@@ -61,7 +61,7 @@ These are the variables I looked at to measure the impacts of the independent va
 
 
 
-![data-1](/data-1.gif)
+![data-1](/assets/data-1.gif)
 
 *Behavior Space Outcome*
 
@@ -166,7 +166,7 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
 
 
 
-![data-2](/data-2.gif)
+![data-2](/assets/data-2.gif)
 
 *Behavior Space Outcome*
 
