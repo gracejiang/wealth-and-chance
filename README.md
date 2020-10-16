@@ -8,6 +8,16 @@
 
 
 
+## Introduction
+
+I performed two computer simulations on a wealth and chance model to learn about how different factors of societal inequalities can further contribute to wealth inequality. The first study, **📊 2-Cluster Experiment**, studies how varying access to resources increases the wealth disparity. The second study, **🌱 Wealth Growth Experiment**, explores how varying initial wealth amounts and interest rates can further affect wealth disparity ratios.
+
+
+
+![00-experiments](/assets/00-experiments.png)
+
+
+
 
 
 ## 📊 2-Cluster Experiment
@@ -110,6 +120,10 @@ To my surprise, the density of each cluster had a direct effect on the amount of
 ### 📖 **VII. Conclusion**
 
 Overall, my results were in support of my hypothesis that groups with greater access to resources ended up significantly wealthier than groups with less access to resources. However, my results also disproved my hypothesis that density does not have an effect on wealth. Instead, I found that highly dense (homogenous) groups had a less overall wealth than low dense (non-homogeneous) groups. One possible explanation for this is that groups withlower density had more variance, and therefore had more turtles with lower distances to the manna, which led to a higher overall wealth.
+
+
+
+
 
 
 
