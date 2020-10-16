@@ -14,13 +14,13 @@ To do this, I modified the default ExpWealthChance experiment to include 2 diffe
 
 
 
-###💭 **II. Hypothesis**
+### 💭 II. Hypothesis
 
 I hypothesized that groups that are closer to the manna would have significantly higher ending wealth outcomes, such as a higher difference in wealth means and a higher % of total wealth captured. I did not think that the density of the groups would significantly impact the total wealth captured.
 
 
 
-###✏️ III. Independent Variables
+### ✏️ III. Independent Variables
 I modified two independent variables in this experiment:
 
 - **Pink Cluster’s Distance from Manna** (`pink-distance-from-manna`): This is the variable that I used to represent accessibility to the resources. A lower distance from the manna represented more accessibility to the resources, and vise versa. I tested this variable in the range of 400 to 500 inclusive using increments of 2.
@@ -28,7 +28,7 @@ I modified two independent variables in this experiment:
 
 
 
-###📍 IV. Control Variables
+### 📍 IV. Control Variables
 I kept several variables the same for the purpose of this experiment:
 
 - **Blue Cluster’s Distance from Manna** (`blue-distance-from-manna`): This is the main control variable of this experiment. I set this value to 400 to have one scenario where the distances of the blue and pink clusters are equal.
@@ -105,7 +105,7 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
 
   
 
-###📍 **IV. Control Variables**
+### 📍 **IV. Control Variables**
 
 - **Initial Manna Distribution** (`init-manna`): This variable represents the type of resource distribution my experiment had. I set this value to Single Hill.
 - **Initial Manna Amount** (`init-manna-amount`): This variable represents the amount of total resources there are. I arbitrarily set this value to 180.
