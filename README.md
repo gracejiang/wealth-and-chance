@@ -2,7 +2,7 @@
 
 
 
-![00](/assets/00.png)
+![demo](/assets/demo.gif)
 
 ***Figure 0**: Example model simulation in progress..!*
 
