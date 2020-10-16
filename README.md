@@ -18,11 +18,13 @@ I performed two computer simulations on a wealth and chance model to learn about
 
 
 
+🔎💭✏️ 📍🔬 📈 📖 
+
 
 
 ## 📊 2-Cluster Experiment
 
-### 🔎 I. Experiment Overview
+### I. Experiment Overview
 
 I wanted to conduct an experiment that took into account how varying accessibility of resources can affect wealth trends among different groups, **even if the groups start out with the same amount of wealth**.
 
@@ -30,13 +32,13 @@ To do this, I modified the default ExpWealthChance experiment to include 2 diffe
 
 
 
-### 💭 II. Hypothesis
+### II. Hypothesis
 
 I hypothesized that groups that are closer to the manna would have significantly higher ending wealth outcomes, such as a higher difference in wealth means and a higher % of total wealth captured. I did not think that the density of the groups would significantly impact the total wealth captured.
 
 
 
-### ✏️ III. Independent Variables
+### III. Independent Variables
 I modified two independent variables in this experiment:
 
 - **Pink Cluster’s Distance from Manna** (`pink-distance-from-manna`): This is the variable that I used to represent accessibility to the resources. A lower distance from the manna represented more accessibility to the resources, and vise versa. I tested this variable in the range of 400 to 500 inclusive using increments of 2.
@@ -44,7 +46,7 @@ I modified two independent variables in this experiment:
 
 
 
-### 📍 IV. Control Variables
+### IV. Control Variables
 I kept several variables the same for the purpose of this experiment:
 
 - **Blue Cluster’s Distance from Manna** (`blue-distance-from-manna`): This is the main control variable of this experiment. I set this value to 400 to have one scenario where the distances of the blue and pink clusters are equal.
@@ -57,7 +59,7 @@ I kept several variables the same for the purpose of this experiment:
 
 
 
-### 🔬 V. Dependent Variables
+### V. Dependent Variables
 
 These are the variables I looked at to measure the impacts of the independent variables.
 
@@ -67,7 +69,7 @@ These are the variables I looked at to measure the impacts of the independent va
 
 
 
-### 📈 VI. Results
+### VI. Results
 
 
 
@@ -117,7 +119,7 @@ To my surprise, the density of each cluster had a direct effect on the amount of
 
 
 
-### 📖 **VII. Conclusion**
+### **VII. Conclusion**
 
 Overall, my results were in support of my hypothesis that groups with greater access to resources ended up significantly wealthier than groups with less access to resources. However, my results also disproved my hypothesis that density does not have an effect on wealth. Instead, I found that highly dense (homogenous) groups had a less overall wealth than low dense (non-homogeneous) groups. One possible explanation for this is that groups withlower density had more variance, and therefore had more turtles with lower distances to the manna, which led to a higher overall wealth.
 
@@ -131,19 +133,19 @@ Overall, my results were in support of my hypothesis that groups with greater ac
 
 ## 🌱 **Wealth Growth Experiment** 
 
-### 🔎 **I. Experiment Overview**
+### I. Experiment Overview**
 
 This experiment serves to highlight how a difference in one’s initial economic status as well as economic conditions can greatly affect the rate of wealth accumulation. This is meant to simulate how government taxes, inflation, cost of goods, as well as other regular payments affect people in different wealth brackets differently.
 
 
 
-### 💭 **II. Hypothesis**
+### **II. Hypothesis**
 
 I hypothesized that slightly higher initial wealth accelerates exponential growth of wealth disparity along with factors from the economic environment, such as a higher cost of living and a higher interest rate.
 
 
 
-### ✏️ Independent Variables
+### III. Independent Variables
 
 - **Interest Rate** (`interest-rate`): This is a variable controlling how high the interest rate goes. A higher interest rate means more interest accrued on one’s wealth over time, exponentially growing one’s total wealth.
 
@@ -153,7 +155,7 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
 
   
 
-### 📍 **IV. Control Variables**
+### **IV. Control Variables**
 
 - **Initial Manna Distribution** (`init-manna`): This variable represents the type of resource distribution my experiment had. I set this value to Single Hill.
 - **Initial Manna Amount** (`init-manna-amount`): This variable represents the amount of total resources there are. I arbitrarily set this value to 180.
@@ -166,7 +168,7 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
 
   
 
-### 🔬 **V. Dependent Variables**
+### **V. Dependent Variables**
 
 - **Difference in Mean Wealth** (`blue-wealth-mean - pink-wealth-mean`): This measures the wealth disparity between the rich and the poor as a result of the independent variables. The larger the number, the greater the inequality between the two groups.
 
@@ -176,7 +178,7 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
 
   
 
-### 📈 **VI. Results**
+### **VI. Results**
 
 
 
@@ -210,7 +212,7 @@ The results of the experiment showed that higher interest rates and initial weal
 
 
 
-### 📖 **VII. Conclusion**
+### **VII. Conclusion**
 
 My results indicate that my hypotheses were correct, although the magnitude of interest rate’s effect was a little smaller than anticipated. An explanation for this may be that my relative scaling is not proportional to what it would look like in real life, as my principals are still fairly small and close together when considering the magnitude of income.
 
