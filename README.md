@@ -1,6 +1,10 @@
 # OIDD 325 Case 1 Documentation
 
-**Grace Jiang**
+
+
+![00](/assets/00.png)
+
+**Figure 0**: Example model simulation in progress..!
 
 
 
