@@ -4,7 +4,9 @@
 
 ![00](/assets/00.png)
 
-**Figure 0**: Example model simulation in progress..!
+***Figure 0**: Example model simulation in progress..!*
+
+
 
 
 
@@ -56,6 +58,14 @@ These are the variables I looked at to measure the impacts of the independent va
 
 
 ### 📈 VI. Results
+
+
+
+![data-1](/data-1.gif)
+
+*Behavior Space Outcome*
+
+
 
 ![01-1](/assets/01-1.png)
 
@@ -153,6 +163,12 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
   
 
 ### 📈 **VI. Results**
+
+
+
+![data-2](/data-2.gif)
+
+*Behavior Space Outcome*
 
 
 
