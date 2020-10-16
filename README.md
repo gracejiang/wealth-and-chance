@@ -1,6 +1,6 @@
 # OIDD 325 Case 1 Documentation
 
-***Grace Jiang***
+**Grace Jiang**
 
 
 
@@ -59,23 +59,21 @@ The results of this experiment were as follows.
 
 As expected, when I increased the distance of the pink cluster to the manna, the average difference in the wealth of the two clusters increased. I found that the pink cluster accumulated a lower mean wealth **and** that the blue cluster groups accumulated a higher mean wealth.
 
-**Figure 2:** Average difference in wealths between the two groups increased when pink- distance-to-manna increased.
+**Figure 2:** Average difference in wealths between the two groups increased when `pink-distance-to-manna` increased.
 
-**Figure 3**: Average % of wealth captured by the blue group significantly spiked to nearly 100% with increasing values of pink-distance-to-manna.
+**Figure 3**: Average % of wealth captured by the blue group significantly spiked to nearly 100% with increasing values of `pink-distance-to-manna`.
 
 To my surprise, the density of each cluster had a direct effect on the amount of wealth captured by that cluster. Denser clusters tended to end off with less wealth than less dense clusters. In other words, the more homogenous a cluster was, the less wealth that cluster accumulated by the end of the experiments.
 
-**Figure 4:** Average difference in wealths between the two groups linearly increased when pink-cluster-density increased.
+**Figure 4:** Average difference in wealths between the two groups linearly increased when `pink-cluster-density` increased.
 
-**Figure 5**: Average % of wealth captured by the blue group linearly increased with when pink-cluster-density increased.
+**Figure 5**: Average % of wealth captured by the blue group linearly increased with when `pink-cluster-density` increased.
 
 
 
 ### 📖 **VII. Conclusion**
 
-Overall, my results were in support of my hypothesis that groups with greater access to resources ended up significantly wealthier than groups with less access to resources. However, my results also disproved my hypothesis that density does not have an effect on wealth. Instead, I found that highly dense (homogenous) groups had a less overall wealth than low dense (non-homogeneous) groups. One possible explanation for this is that groups with
-
-lower density had more variance, and therefore had more turtles with lower distances to the manna, which led to a higher overall wealth.
+Overall, my results were in support of my hypothesis that groups with greater access to resources ended up significantly wealthier than groups with less access to resources. However, my results also disproved my hypothesis that density does not have an effect on wealth. Instead, I found that highly dense (homogenous) groups had a less overall wealth than low dense (non-homogeneous) groups. One possible explanation for this is that groups withlower density had more variance, and therefore had more turtles with lower distances to the manna, which led to a higher overall wealth.
 
 
 
@@ -101,7 +99,7 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
 
 - **Initial wealth of the Rich population** (`rich-init-wealth`): This is a variable granting the rich group a certain amount of manna to begin with. The poor group is set to 0, and must get manna themselves in order to have any wealth. This variable essentially establishes a higher starting point for the rich group. This variable was **not measured in my actual behavior space experiment, but was a part of my NetLogo model as a factor.** For this experiment, I set the initial wealth to an arbitrary value of 50.
 
-- **Cost of Living** (cost-of-living): This variable affects both groups the same amount per step, and is meant to represent various payments people make in daily life that reduces their wealth, such as taxes and mortgages, etc. Higher costs of living will thus reduce more from a turtle’s total wealth at each tick. This variable was **not measured in my actual behavior space experiment, but was a part of my NetLogo model as a factor.** For this experiment, I set the cost of living to 0.
+- **Cost of Living** (`cost-of-living`): This variable affects both groups the same amount per step, and is meant to represent various payments people make in daily life that reduces their wealth, such as taxes and mortgages, etc. Higher costs of living will thus reduce more from a turtle’s total wealth at each tick. This variable was **not measured in my actual behavior space experiment, but was a part of my NetLogo model as a factor.** For this experiment, I set the cost of living to 0.
 
   
 
