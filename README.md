@@ -55,7 +55,7 @@ These are the variables I looked at to measure the impacts of the independent va
 
 ![01-1](/assets/01-1.png)
 
-![01-1](/assets/01-2.png)
+![01-2](/assets/01-2.png)
 
 ***Figure 1**: Example setup of my experiment.*
 
@@ -65,15 +65,31 @@ The results of this experiment were as follows.
 
 As expected, when I increased the distance of the pink cluster to the manna, the average difference in the wealth of the two clusters increased. I found that the pink cluster accumulated a lower mean wealth **and** that the blue cluster groups accumulated a higher mean wealth.
 
-**Figure 2:** Average difference in wealths between the two groups increased when `pink-distance-to-manna` increased.
 
-**Figure 3**: Average % of wealth captured by the blue group significantly spiked to nearly 100% with increasing values of `pink-distance-to-manna`.
+
+![02](/assets/02.png)
+
+***Figure 2:** Average difference in wealths between the two groups increased when `pink-distance-to-manna` increased.*
+
+
+
+![03](/assets/03.png)
+
+***Figure 3**: Average % of wealth captured by the blue group significantly spiked to nearly 100% with increasing values of `pink-distance-to-manna`.*
 
 To my surprise, the density of each cluster had a direct effect on the amount of wealth captured by that cluster. Denser clusters tended to end off with less wealth than less dense clusters. In other words, the more homogenous a cluster was, the less wealth that cluster accumulated by the end of the experiments.
 
-**Figure 4:** Average difference in wealths between the two groups linearly increased when `pink-cluster-density` increased.
 
-**Figure 5**: Average % of wealth captured by the blue group linearly increased with when `pink-cluster-density` increased.
+
+![04](/assets/04.png)
+
+***Figure 4:** Average difference in wealths between the two groups linearly increased when `pink-cluster-density` increased.*
+
+
+
+![05](/assets/05.png)
+
+***Figure 5**: Average % of wealth captured by the blue group linearly increased with when `pink-cluster-density` increased.*
 
 
 
@@ -134,11 +150,27 @@ I hypothesized that slightly higher initial wealth accelerates exponential growt
 
 ### 📈 **VI. Results**
 
-**Figure 6**: Sample experiment.
+
+
+![06-1](/assets/06-1.png)
+
+![06-2](/assets/06-2.png)
+
+***Figure 6**: Sample experiment.*
+
+
 
 The results of the experiment showed that higher interest rates and initial wealth help grow wealth at an extremely high exponential rate, widening the wealth disparity between the average wealth of a rich turtle (blue) and that of a poor turtle (pink).
 
+
+
+![07](/assets/07.png)
+
 **Figure 7**: Higher interest rates lead to an exponentially higher difference of wealth means between the two groups. However, this graph is not adjusted for inflation, since these are the raw wealth values.
+
+
+
+![08](/assets/08.png)
 
 **Figure 8**: Higher interest rates leads to the rich group capturing a higher percentage of overall wealth than the poor group. This graph does account for inflation because it is taken as a percentage graph and not a raw value graph.
 
