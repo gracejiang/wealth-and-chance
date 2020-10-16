@@ -49,11 +49,17 @@ These are the variables I looked at to measure the impacts of the independent va
 - **% of Total Wealth Captured by Pink Cluster** (`pink-pct-wealth`): This variable represents the total percentage of wealth that the pink cluster captures at the end of each experiment.
 - **% of Total Wealth Captured by Blue Cluster** (`blue-pct-wealth`): This variable represents the total percentage of wealth that the blue cluster captures at the end of each experiment.
 
-**Figure 1**: Example setup of my experiment.
-
 
 
 ### 📈 VI. Results
+
+![01-1](/assets/01-1.png)
+
+![01-1](/assets/01-2.png)
+
+***Figure 1**: Example setup of my experiment.*
+
+
 
 The results of this experiment were as follows.
 
